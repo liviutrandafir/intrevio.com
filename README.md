@@ -2,6 +2,10 @@
 
 > Intrevio vue project
 
+# Check it out here:
+
+> [Link to demo](https://liviutrandafir.github.io/intrevio.com/dist/#/).
+
 ## Build Setup
 
 ``` bash
